@@ -3,7 +3,7 @@
 Spam Sms Berbatas
 ```
 
-#Install
+# Install
 ```
 pkg update && pkg upgrade -y
 
