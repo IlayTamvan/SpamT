@@ -13,7 +13,7 @@ git clone https://github.com/IlayTamvan/SpamT.git
 
 cd SpamT
 
-unzip SpamT
+unzip SpamT.zip
 
 python2 SpamT.py
 
